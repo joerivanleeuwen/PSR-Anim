@@ -1,0 +1,14 @@
+
+# Notes:
+This is a simple animation of a B0329+54-like pulsar. 
+The accompanying sounds were recorded at Jodrell.
+
+Source files are Autodesk Maya scene setup, stills, and After Effects final scene. 
+
+
+# Credit Line:
+Joeri van Leeuwen
+
+
+# License CC-BY-AS
+
