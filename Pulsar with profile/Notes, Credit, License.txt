@@ -1,0 +1,16 @@
+
+# Notes:
+This is an animation of a 1.3 s pulsar. 
+The accompanying sounds were modified from recordings at Jodrell.
+
+Source files are the After Effects final scene. 
+As input you will need the Autodesk Maya scene setup and stills from 
+  General simple rotating pulsar/
+
+
+# Credit Line:
+Joeri van Leeuwen
+
+
+# License CC-BY-AS
+
