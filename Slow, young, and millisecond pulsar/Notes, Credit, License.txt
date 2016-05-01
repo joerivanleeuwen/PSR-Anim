@@ -1,0 +1,13 @@
+
+# Notes:
+These are three animations of 1-Hz, 11-Hz, and 650-Hz pulsars.
+The accompanying sounds were modified from recordings at WSRT, Parkes and Jodrell on B0329+54, Vela and B1937+21.
+
+Source files are Autodesk Maya and After Effects scenes, and sound file.
+
+# Credit Line:
+Joeri van Leeuwen
+
+
+# License CC-BY-AS
+
