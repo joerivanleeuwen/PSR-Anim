@@ -1,0 +1,13 @@
+
+# Notes:
+This is an animation of the geodetic precession in PSR J1906+0746.
+A different version of this (without sound) is on youtube.
+
+Source files are Autodesk Maya and After Effects scenes, and sound file.
+
+# Credit Line:
+Joeri van Leeuwen
+
+
+# License CC-BY-AS
+
