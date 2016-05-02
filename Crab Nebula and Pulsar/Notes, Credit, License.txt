@@ -1,0 +1,14 @@
+
+# Notes:
+Animated here is a real-life Crab pulse-train taken with Westerbork, as it appears to originate from the pulsar in the center of the Nebula.
+
+The sound is a partly-running-averaged and re-modulated Westerbork detection of the Crab Pulsar.
+
+Source files are the After Effects scenes, and sound and image files.
+
+# Credit Line:
+Joeri van Leeuwen / ASTRON / ESO
+
+
+# License CC-BY-AS
+
