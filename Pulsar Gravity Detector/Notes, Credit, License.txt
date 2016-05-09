@@ -9,4 +9,9 @@ Source files are the Autodesk Maya and After Effects scenes. There are no stills
 
 # License CC-BY-AS
 
-# PS: Joeri van Leeuwen recoded these animations to MP4, from the TIFF stills for PulsGravDet.mp4 and from the initial PAL MPEGs for the others.
+# Edits: 
+Joeri van Leeuwen 2015-01-15: Updated After Effects source files through CS4 to CC2014
+Joeri van Leeuwen 2016-05-09: Recoded these animations to MP4, from the TIFF stills for PulsGravDet.mp4 and from the initial PAL MPEGs for the others.
+
+
+
