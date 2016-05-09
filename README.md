@@ -1,10 +1,14 @@
 # PSR-Anim
 Pulsar Animations
 
-
 # Overview
 This repository holds source files and products for general-use Pulsar
 Animations. 
+
+# Examples
+A more complete overview, with examples, is available at
+[http://www.astron.nl/pulsars/animations/](http://http://www.astron.nl/pulsars/animations/)
+.
 
 
 # Downloading and usage 
@@ -28,5 +32,5 @@ Effects, etc.
 
 
 # Authors
-Joeri van Leeuwen, ..
+Joeri van Leeuwen, John Rowe, ..
 
