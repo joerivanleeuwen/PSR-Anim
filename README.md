@@ -7,7 +7,7 @@ Animations.
 
 # Examples
 A more complete overview, with examples, is available at
-[http://www.astron.nl/pulsars/animations/](http://http://www.astron.nl/pulsars/animations/)
+[http://www.astron.nl/pulsars/animations/](http://www.astron.nl/pulsars/animations/)
 .
 
 
