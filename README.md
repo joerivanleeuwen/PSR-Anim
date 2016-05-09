@@ -9,7 +9,7 @@ Animations.
 A more complete overview, with examples, is available at
 [http://www.astron.nl/pulsars/animations/](http://www.astron.nl/pulsars/animations/)
 .
-
+ 
 
 # Downloading and usage 
 All content is licensed as CC BY-SA: "Attribution-ShareAlike".  You can use the
