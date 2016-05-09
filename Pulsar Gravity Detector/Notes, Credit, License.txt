@@ -1,0 +1,12 @@
+
+# Notes:
+Two galaxies, each containing a black hole at their centre, merge. The two back holes orbit one another at the centre of the merged galaxy, sending out gravitational waves as they perturb spacetime in their vicinity. These gravitational waves eventually reach our Galaxy, the Milky Way, where they modulate the signals from pulsars. The apparent pulsar period is alternately red-shifted and blue-shifted as the wave passes over the pulsar and the Earth. 
+
+Source files are the Autodesk Maya and After Effects scenes. There are no stills or other input series provided.
+
+# Credit Line:
+ John Rowe Animation/CSIRO Astronomy and Space Science 
+
+# License CC-BY-AS
+
+# PS: Joeri van Leeuwen recoded these animations to MP4, from the TIFF stills for PulsGravDet.mp4 and from the initial PAL MPEGs for the others.

@@ -1,0 +1,9 @@
+
+
+Spacetime2BlackHoles11DisplaceDownBy1PreAEBake
+  Spiral, two sculpted black holes, greem lambert
+
+In MassSink2
+ In IncandGreen, go up until 2DTexture node, there increase U
+ coordinate range max to 1.3, to fix "black wedge" problem
+

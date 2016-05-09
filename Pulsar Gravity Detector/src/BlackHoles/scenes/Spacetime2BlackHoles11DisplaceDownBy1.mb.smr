@@ -1,0 +1,19 @@
+End = 900
+ExtraParameters = 
+ImageDir = 
+ImageFmt = 
+JobName = BlackHoles: Spacetime2BlackHoles11DisplaceDownBy1.mb
+KillOvertime = 500
+MaxCPUs = -1
+MultiThread = 1
+Note = 
+OutputDir = 
+Packet = 5
+Pool = Whole System
+Priority = 48
+Product = Maya
+Project = Z:\PulsarGravityDetector\BlackHoles
+SceneName = Z:\PulsarGravityDetector\BlackHoles\scenes\Spacetime2BlackHoles11DisplaceDownBy1.mb
+Start = 891
+UID = 710d279c-9151-492f-b9a0-2850b6011bd8
+

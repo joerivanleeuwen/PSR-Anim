@@ -1,0 +1,19 @@
+End = 750
+ExtraParameters = -b 10.000 
+ImageDir = 
+ImageFmt = 
+JobName = BlackHoles: TestDispWeirdnessB.mb
+KillOvertime = 1200
+MaxCPUs = -1
+MultiThread = 0
+Note = 
+OutputDir = 
+Packet = 100
+Pool = Whole System
+Priority = 62
+Product = Maya5
+Project = Z:\PulsarGravityDetector\BlackHoles
+SceneName = Z:\PulsarGravityDetector\BlackHoles\scenes\TestDispWeirdnessB.mb
+Start = 1
+UID = f2e0c720-8b9c-4172-e1b9-5fe5de71823a
+

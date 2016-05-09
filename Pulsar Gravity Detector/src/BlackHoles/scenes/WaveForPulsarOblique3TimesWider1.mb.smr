@@ -1,0 +1,19 @@
+End = 1558
+ExtraParameters = -rd "Z:/PulsarGravityDetector/BlackHoles/images/3TimesWider" -b 2.000 
+ImageDir = 
+ImageFmt = 
+JobName = BlackHoles: WaveForPulsarOblique3TimesWider1.mb
+KillOvertime = 500
+MaxCPUs = -1
+MultiThread = 1
+Note = 
+OutputDir = 
+Packet = 10
+Pool = Whole System
+Priority = 51
+Product = Maya
+Project = Z:\PulsarGravityDetector\BlackHoles
+SceneName = Z:\PulsarGravityDetector\BlackHoles\scenes\WaveForPulsarOblique3TimesWider1.mb
+Start = 260
+UID = 6d458651-24f8-4d40-daa3-c7558d7429a8
+

@@ -1,0 +1,19 @@
+End = 750
+ExtraParameters = -rd "Z:/PulsarGravityDetector/BlackHoles/images/test"
+ImageDir = 
+ImageFmt = 
+JobName = BlackHoles: TestMaya6.mb
+KillOvertime = 500
+MaxCPUs = -1
+MultiThread = 1
+Note = 
+OutputDir = 
+Packet = 5
+Pool = Whole System
+Priority = 42
+Product = Maya
+Project = Z:\PulsarGravityDetector\BlackHoles
+SceneName = Z:\PulsarGravityDetector\BlackHoles\scenes\TestMaya6.mb
+Start = 1
+UID = 65089df9-fa64-48f9-f28c-37acc15c0b2a
+

@@ -1,0 +1,19 @@
+End = 731
+ExtraParameters = 
+ImageDir = 
+ImageFmt = 
+JobName = BlackHoles: Spacetime2BlackHoles10NoCoalsceAdvTes.mb
+KillOvertime = 500
+MaxCPUs = -1
+MultiThread = 1
+Note = 
+OutputDir = 
+Packet = 5
+Pool = Whole System
+Priority = 48
+Product = Maya
+Project = Z:\PulsarGravityDetector\BlackHoles
+SceneName = Z:\PulsarGravityDetector\BlackHoles\scenes\Spacetime2BlackHoles10NoCoalsceAdvTes.mb
+Start = 731
+UID = e323c08e-9e1a-4a8f-d981-d66c18b01cea
+

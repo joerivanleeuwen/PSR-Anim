@@ -1,0 +1,19 @@
+End = 750
+ExtraParameters = 
+ImageDir = Z:\PulsarGravityDetector\BlackHoles\images
+ImageFmt = SpacetimeBlackholes.????.tif
+JobName = BlackHoles: TestClosedSurface2.mb
+KillOvertime = 1200
+MaxCPUs = -1
+MultiThread = 0
+Note = 
+OutputDir = 
+Packet = 5
+Pool = Whole System
+Priority = 50
+Product = Maya5
+Project = Z:\PulsarGravityDetector\BlackHoles
+SceneName = Z:\PulsarGravityDetector\BlackHoles\scenes\TestClosedSurface2.mb
+Start = 522
+UID = 10c54f55-cd52-4c5c-ebac-437e1d6e45bb
+

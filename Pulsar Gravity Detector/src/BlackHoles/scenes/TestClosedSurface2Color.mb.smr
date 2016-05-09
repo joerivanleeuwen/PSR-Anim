@@ -1,0 +1,19 @@
+End = 750
+ExtraParameters = 
+ImageDir = 
+ImageFmt = 
+JobName = BlackHoles: TestClosedSurface2Color.mb
+KillOvertime = 1200
+MaxCPUs = -1
+MultiThread = 0
+Note = 
+OutputDir = 
+Packet = 20
+Pool = Whole System
+Priority = 50
+Product = Maya5
+Project = Z:\PulsarGravityDetector\BlackHoles
+SceneName = Z:\PulsarGravityDetector\BlackHoles\scenes\TestClosedSurface2Color.mb
+Start = 1
+UID = f5687937-ea86-4490-219a-24482e7c3df0
+

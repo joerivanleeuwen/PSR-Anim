@@ -1,0 +1,19 @@
+End = 650
+ExtraParameters = 
+ImageDir = 
+ImageFmt = 
+JobName = BlackHoles: WaveForPulsar4LongerCloseUp.mb
+KillOvertime = 500
+MaxCPUs = -1
+MultiThread = 1
+Note = 
+OutputDir = 
+Packet = 5
+Pool = Whole System
+Priority = 50
+Product = Maya
+Project = Z:\PulsarGravityDetector\BlackHoles
+SceneName = Z:\PulsarGravityDetector\BlackHoles\scenes\WaveForPulsar4LongerCloseUp.mb
+Start = 292
+UID = f38719e5-458e-434f-1398-2c3b4fa132e5
+
